@@ -28,8 +28,9 @@ The analysis involves:
 <br>
 🔹 Natural Language Processing (NLP)
 <br>
+
 🔗 Connect with Me:
 <br>
-📧 Email: your-email@example.com
+📧 Email: johashikder25@gmail.com
 <br>
-📌 GitHub: Your GitHub Profile
+📌 GitHub:(https://github.com/johashikder)
