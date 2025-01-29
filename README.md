@@ -1,6 +1,7 @@
 # Social-media-sentiment-analysis
-📌 Project Overview
-This project performs sentiment analysis on social media text data using Natural Language Processing (NLP) techniques and a Naïve Bayes classifier. The goal is to classify text as Positive, Negative, or Neutral based on its sentiment score.
+<br>
+📌 Project Overview <br>
+This project performs sentiment analysis on social media text data using Natural Language Processing (NLP) techniques and a Naïve Bayes <br> classifier. The goal is to classify text as Positive, Negative, or Neutral based on its sentiment score.<br>
 
 The analysis involves:
 ✔ Text Preprocessing (Cleaning, Tokenization, Stopword Removal)
