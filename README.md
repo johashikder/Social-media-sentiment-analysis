@@ -27,3 +27,9 @@ The analysis involves:
 🔹 Machine Learning Model: Naïve Bayes Classifier
 <br>
 🔹 Natural Language Processing (NLP)
+<br>
+🔗 Connect with Me:
+<br>
+📧 Email: your-email@example.com
+<br>
+📌 GitHub: Your GitHub Profile
