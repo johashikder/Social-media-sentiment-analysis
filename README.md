@@ -1,4 +1,4 @@
-# Social-media-sentiment-analysis
+### Social-media-sentiment-analysis
 <br>
 📌 Project Overview
 <br>
@@ -19,7 +19,11 @@ The analysis involves:
 <br>
 
 🛠 Technologies Used
+<br>
 🔹 R Programming
+<br>
 🔹 Libraries: tidyverse, tm, syuzhet, wordcloud, e1071, caret
+<br>
 🔹 Machine Learning Model: Naïve Bayes Classifier
+<br>
 🔹 Natural Language Processing (NLP)
